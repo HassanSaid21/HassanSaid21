@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&duration=3000&pause=100&color=3168F7&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+I'm+HassanSaid;A+frontend+developer)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HassanSaid21&label=Profile%20views&color=0e75b6&style=flat" alt="hassansaid" /> </p>
-
-<h1 align="center">Hi 👋, I'm Hassan Said</h1>
-<h3 align="center">Frontend Developer</h3>
-
 - 🌱 I’m currently learning **Next.js**
   
 </p>
