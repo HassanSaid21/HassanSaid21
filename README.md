@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&duration=3000&pause=100&color=3168F7&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+I'm+Hassan+Said;Frontend+Developer)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h3 align="left">🌱 I’m currently learning</h2>
+  <h2 align="left">🌱 I’m currently learning</h2>
   
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
