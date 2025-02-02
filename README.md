@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&duration=3000&pause=100&color=3168F7&center=true&multiline=true&width=1000&height=100&lines=Hey%2C+I'm+Hassan+Said;Frontend+Developer)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2 align="left">🌱 I’m currently learning</h2>
+  <h3 align="left">🌱 I’m currently learning</h2>
   
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -21,7 +21,6 @@
 [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanSaid21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
